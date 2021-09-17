@@ -4,7 +4,7 @@ From Julia to LLVM
 Background
 ----------
 This work is the result of Formal Languages and Compilers course project, at Polytechnic University of Turin. 
-This is the implementation of a compiler which recognizes and translates part of the Julia programming language into the LLVM IR syntax (more information about LLVM and this tool can be found [here](https://www.skenz.it/compilers/llvm "https://www.skenz.it/compilers/llvm")) and [here](https://www.skenz.it/compilers/julia_to_llvm "https://www.skenz.it/compilers/julia_to_llvm")).
+This is the implementation of a compiler which recognizes and translates part of the Julia programming language into the LLVM IR syntax (more information about LLVM and this tool can be found [here](https://www.skenz.it/compilers/llvm "https://www.skenz.it/compilers/llvm") and [here](https://www.skenz.it/compilers/julia_to_llvm "https://www.skenz.it/compilers/julia_to_llvm")).
 
 ### Implemented parts
 
